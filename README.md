@@ -1,8 +1,16 @@
 # PurrfectBreak 🐱
 
-A delightful, distraction-free macOS menu bar break reminder. No Dock clutter, no intrusive popups — just a quiet status bar timer and an animated feline companion that visits your screen to remind you to rest your eyes and stretch.
+A delightful, distraction-free macOS menu bar break reminder. No Dock clutter, no intrusive popups — just a quiet status bar timer and a cute cat companion that hijacks your screen just like a real cat to remind you to rest your eyes and stretch.
 
 Built natively in Swift and SwiftUI for macOS with zero third-party dependencies.
+
+<br>
+
+<img width="1800" height="1169" alt="screenshot-1" src="https://github.com/user-attachments/assets/aaa90bf3-3c20-447b-b369-9ce9417081ec" />
+
+<br><br>
+
+<img width="632" height="894" alt="screenshot-2" src="https://github.com/user-attachments/assets/f32a72ed-f16b-4cf7-a542-09c12dc8e0ba" />
 
 <br>
 
